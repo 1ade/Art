@@ -1,2 +1,2 @@
 # Art
-artwork designed using processing.js
+artwork developed using processing.js
